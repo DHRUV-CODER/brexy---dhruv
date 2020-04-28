@@ -1,26 +1,13 @@
-
-print("operators uses:- ")
-print(" for -ADDING press:-{+}")
-print(" for - SUBTRACTING press:-{-}")
-print(" for -  MULTIPLYING press :-(*}")
-print(" for - DIVIDING press :-{/}")
-print(" for - POWERS press :-(**} 'basically *SQAURING* ' ")
-
-num1 = float(input("ENTER THE FIRST NUMBER = "))
-op = input("ENTER THE OPERATOR : ")
-num2 = float(input("ENTER THE SECOND NUMBER = "))
-
-if op == "+":
-    print(num1 + num2)
-elif op == "-":
-    print(num1 - num2)
-elif op == "*":
-    print(num1 * num2)
-elif op == "/":
-    print(num1 / num2)
-elif op == "**":
-    print(num1 ** num2)
-else:
-    print("invalid operator")
+HI CODERS THINKING OF LEARNING PROGRAMMING, THEN YOU HAVE COME TO RIGHT PALCE.
+HERE YOU WILL FIND TUTORIALS AND SOME HOW TO'S.
+I'LL TEACH YOU CODING IN LESS TIME WITH QUALITY CONTENT.
+AND DON'T HESITATE TO ASK QUESTION'S AND PLEASE MIND THAT YOU DON'T HAVE ANY COPYRIGHT'S ON MY VIDEO.
+THE VIDEO I UPLOAD IS  ONLY FOR EDUCATIONAL PURPOSE.
+LINK TO WEB-PAGE------  https://dhruvnation15.wixsite.com/brexy
+LINK TO FRIEND'S CHANNEL-----  https://www.youtube.com/channel/UCb9kY0I01P23eOxbs3kNH0g
+AND SUGGEST ME THING'S THROUGH COMMENT SECTION.
+AND YOU WILL FOR SURE GET A SHOUTOUT.
+PEACE.
+#FightCovid-19
 
     
