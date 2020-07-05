@@ -22,4 +22,3 @@ while(True):
     # if the user puts an diiferent input
     else:
         print("this emoji will soon come.")
-
